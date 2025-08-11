@@ -16,7 +16,7 @@ USERNAME = os.getenv("LINK_USERNAME")
 PASSWORD = os.getenv("LINK_PASSWORD")
 
 # --- Set your search keywords here ---
-SEARCH_TERMS = "Talent Management, Recruitment, Talent Aquisition"
+SEARCH_TERMS = "Artificial Intelligence, Top Voice, KPMG"
 MAX_INVITES = 37
 
 driver = webdriver.Chrome()
